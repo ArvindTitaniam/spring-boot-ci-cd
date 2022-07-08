@@ -14,7 +14,7 @@ public class DemoApplication {
 	}
 
 
-	@GetMapping("/test")
+	@GetMapping("/test1")
 	public String test(){
 		return "test";
 	}
